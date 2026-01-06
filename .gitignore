@@ -1,0 +1,8 @@
+# virtual environment
+prostredi_projekt/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
