@@ -30,8 +30,10 @@ Spuštění skriptu `main.py` z příkazové řádky vyžaduje **dva povinné ar
 
 ## Ukázka průběhu pro okres Benešov 
 
-**1. argument (odkaz na územní celek):** https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101
-**2. argument (výstupní CSV soubor):** vysledky_benesov.csv
+**1. argument (odkaz na územní celek):**  
+https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101  
+**2. argument (výstupní CSV soubor):**  
+vysledky_benesov.csv  
 
 
 ### Spuštění programu
